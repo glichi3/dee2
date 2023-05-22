@@ -1,4 +1,4 @@
-# V2ray Edge（Beta）
+# V2ray Edge（Beta
 
 众所周知，V2ray 是基于 `go` 的，导致原版 V2ray 无法部署到基于 `javaScript (V8)` 的平台上。
 
