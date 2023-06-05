@@ -115,7 +115,7 @@ addEventListener('fetch', (event) => {
 
 由于 edge 平台限制，无法转发 UDP 包。所以 DNS 策略请设置成 `Asis`.
 
-## 不支持 VMESS
+## 不支持 VMESS h
 
 VMESS 协议过于复杂，并且所有 edge 平台都支持 HTTPS， 所以无需 VMESS.
 
