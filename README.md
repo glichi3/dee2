@@ -117,5 +117,5 @@ addEventListener('fetch', (event) => {
 
 ## 不支持 VMESS h
 
-VMESS 协议过于复杂，并且所有 edge 平台都支持 HTTPS， 所以无需 VMESS.
+VMESS 协议过于复杂，并且所有 edge 平台都支持 HTTPS， 所以无
 
